@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dreamstime.com%2Fyoung-programmer-man-character-coding-vector-flat-cartoon-illustration-listenning-music-image114942996&psig=AOvVaw2JAVy750GzERyibxoxCN1J&ust=1652281634895000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCIC94eKc1fcCFQAAAAAdAAAAABAO" width="100"/>
 </div>
 
 **NwekeGoddy/NwekeGoddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
