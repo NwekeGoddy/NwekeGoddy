@@ -21,7 +21,7 @@
 
 ---
 
-### :woman_technologist: About Me : I am a Computer Engineer.
+### :woman_technologist: About Me : I'm a Computer Engineer.
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend for building web applications.
 
@@ -31,7 +31,7 @@
 
 - :zap: In my free time, I read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nweke-chidi-gmnse-a0aa251a5/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nweke-chidi-gmnse-a0aa251a5/)
 
 ---
 
