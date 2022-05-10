@@ -16,8 +16,22 @@
   </h1>
 </div>
 <div align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Dprogrammer%2Bcartoon&psig=AOvVaw08J1Z8DmeYgyfUOVgmqBhq&ust=1652283146190000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCICri8ug1fcCFQAAAAAdAAAAABAD" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+---
+### :woman_technologist: About Me :
+I am a Computer Engineer.
+- :telescope: I’m working as a Software Engineer and contributing to frontend for building web applications.
+
+- :seedling: Exploring Technical Content Writing.
+
+- 🌱 I’m currently learning React
+- 
+- :zap: In my free time, I read tech articles.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nweke-chidi-gmnse-a0aa251a5/)
+
+
 
 <!-- 
 **NwekeGoddy/NwekeGoddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
