@@ -26,12 +26,14 @@
 - :seedling: Exploring Technical Content Writing.
 
 - 🌱 I’m currently learning React
-- 
+
 - :zap: In my free time, I read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nweke-chidi-gmnse-a0aa251a5/)
 
+---
 
+### :hammer_and_wrench: Languages and Tools :
 
 <!-- 
 **NwekeGoddy/NwekeGoddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
