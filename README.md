@@ -1,6 +1,12 @@
+<p align="center"><img src="animation.gif" width="35%"></p>
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=3000&color=%2338C2FF&size=40&height=200&width=800&lines=Heyyy!+I'm+Nweke+Chidi+%3C3;I'+am+a+Software++Engineer+at+Cedarview;Welcome+to+my+profile+!">
+</p>
+          
+<br>
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<!--   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> -->
   <div id="badges">
     <a href="https://www.linkedin.com/in/nweke-chidi-gmnse-a0aa251a5/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -10,16 +16,13 @@
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=NwekeGoddy&style=flat-square&color=blue" alt=""/>
-  <h1>
-    hey there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
 </div>
-<div align="center">
+<!-- <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+</div> -->
 
----
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">   
 
 ### :woman_technologist: About Me : I'm a Computer Engineer.
 
@@ -33,7 +36,8 @@
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nweke-chidi-gmnse-a0aa251a5/)
 
----
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">   
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -45,7 +49,21 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <br> <br>
 </div>
+
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">   
+
+### 📈 Stats:
+
+<p>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=NwekeGoddy&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=NwekeGoddy&theme=tokyonight" />
+</p>
+
+<br>
+
 <!-- 
 **NwekeGoddy/NwekeGoddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
