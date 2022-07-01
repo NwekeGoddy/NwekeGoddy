@@ -1,7 +1,7 @@
 <p align="center"><img src="animation.gif" width="35%"></p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=3000&color=%2338C2FF&size=40&height=200&width=800&lines=Heyyy!+I'm+Nweke+Chidi+%3C3;I'+am+a+Software++Engineer+at+Cedarview;Welcome+to+my+profile+!">
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=3000&color=%2338C2FF&size=40&height=200&width=800&lines=Heyyy!+I'm+Nweke+Chidi+%3C3;I'+m+a+Software++Engineer+at+Cedarview;Welcome+to+my+profile+!">
 </p>
           
 <br>
@@ -24,15 +24,15 @@
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">   
 
-### :woman_technologist: About Me : I'm a Computer Engineer.
+### :woman_technologist: About Me : He's a Computer Engineer.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend for building web applications.
+- :telescope: He works as a Software Engineer and contributes to frontend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
 
-- 🌱 I’m currently learning React
+- 🌱 He's currently learning React
 
-- :zap: In my free time, I read tech articles.
+- :zap: In my free time,he reads tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nweke-chidi-gmnse-a0aa251a5/)
 
