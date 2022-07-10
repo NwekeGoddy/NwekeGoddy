@@ -1,7 +1,7 @@
 <p align="center"><img src="animation.gif" width="35%"></p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=3000&color=%2338C2FF&size=40&height=200&width=800&lines=Heyyy!+I'm+Nweke+Chidi+%3C3;I'+m+a+Software++Engineer+at+Cedarview;Welcome+to+my+profile+!">
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=5000&color=%2338C2FF&size=40&height=200&width=800&lines=Heyyy!+I'm+Nweke+Chidi+%3C3;I'+m+a+Software++Engineer+at+Cedarview;Welcome+to+my+profile+!">
 </p>
           
 <br>
@@ -24,13 +24,11 @@
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">   
 
-### :woman_technologist: About Me : He's a Computer Engineer.
+### :woman_technologist: About Him : He's a Computer Engineer.
 
 - :telescope: He works as a Software Engineer and contributes to frontend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
-
-- 🌱 He's currently learning React
+- :seedling: Exploring Technical Content Writin and learning React.
 
 - :zap: In my free time,he reads tech articles.
 
