@@ -28,17 +28,17 @@
 
 - :telescope: He works as a Software Engineer and contributes to frontend for building web applications.
 
-- :seedling: Exploring Technical Content Writin and learning React.
+- :seedling: Exploring Technical Content Writing and learning React.
 
-- :zap: In my free time,he reads tech articles.
+- :zap: In his free time, he reads tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nweke-chidi-gmnse-a0aa251a5/)
+<!-- - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nweke-chidi-gmnse-a0aa251a5/) -->
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">   
 
 ### :hammer_and_wrench: Languages and Tools :
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,cpp,bootstrap,arduino,react,git,github,tailwind,vscode&perline=3)](https://skillicons.dev)
 <br>
 <!-- <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
