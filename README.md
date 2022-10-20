@@ -38,7 +38,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">   
 
 ### :hammer_and_wrench: Languages and Tools :
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,cpp,bootstrap,arduino,react,git,github,tailwind,vscode&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,git,github,vscode,cpp,arduino&perline=11)](https://skillicons.dev)
 <br>
 <!-- <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -69,6 +69,7 @@
 ### ⚡ Badges:
 
 [![@nwekechidi's Holopin board](https://holopin.me/nwekechidi)](https://holopin.io/@nwekechidi)
+
 
 <!-- 
 **NwekeGoddy/NwekeGoddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
